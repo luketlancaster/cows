@@ -1,0 +1,28 @@
+{
+  "farmers": {
+    "farmer1": {
+      "first_name": "Joe",
+      "last_name": "McDougal",
+      "age": 40,
+      "location": "Jersey"
+    },
+    "farmer2": {
+      "first_name": "James",
+      "last_name": "McPheeny",
+      "age": 30,
+      "location": "Kansas"
+    },
+    "farmer3": {
+      "first_name": "Jane",
+      "last_name": "Jett",
+      "age": 42,
+      "location": "Texas"
+    },
+    "farmer4": {
+      "first_name": "George",
+      "last_name": "Lancaster",
+      "age": 33,
+      "location": "Misourri"
+    },
+  }
+}
